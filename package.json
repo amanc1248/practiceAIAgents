@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
+    "@google/generative-ai": "^0.2.1",
     "dotenv": "^16.0.0",
     "gpt-3-encoder": "^1.1.4",
+    "node-fetch": "^3.3.2",
     "openai": "^4.0.0"
   }
 }
